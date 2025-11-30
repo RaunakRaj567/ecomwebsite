@@ -1,0 +1,22 @@
+This directory contains placeholder images for the e-commerce website.
+In a real implementation, you would add actual product images here.
+
+Recommended image formats:
+- Product images: JPG/PNG (400x400px or larger)
+- Hero images: JPG/PNG (1200x600px or larger)
+- Category icons: SVG or PNG (100x100px)
+
+Image naming convention:
+- headphones.jpg
+- smartwatch.jpg
+- tshirt.jpg
+- chair.jpg
+- yogamat.jpg
+- mouse.jpg
+- jeans.jpg
+- speaker.jpg
+- plantpots.jpg
+- shoes.jpg
+- laptopstand.jpg
+- hoodie.jpg
+
